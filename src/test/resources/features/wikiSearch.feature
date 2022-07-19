@@ -8,3 +8,5 @@ Feature: Wikipedia search functionality and verifications
   When User types "Steve Jobs" in the wiki search box
   And User clicks wiki search button
   Then User sees "Steve Jobs" is in the wiki title
+
+    #merhaba
